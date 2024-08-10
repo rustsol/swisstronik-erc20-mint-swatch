@@ -3,7 +3,7 @@ import fs from 'fs'
 import path from 'path'
 
 async function main() {
-  const Contract = await ethers.getContractFactory('TestToken')
+  const Contract = await ethers.getContractFactory('Swisswatch')
 
   console.log('Deploying token...')
   const contract = await Contract.deploy()
