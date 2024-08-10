@@ -1,25 +1,12 @@
-# Swisstronik Tesnet Techinal Task 2
-
-link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
-
-Feel free donate to my EVM address
-
-EVM :
-
-```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
-```
-
-## Steps
 
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc20-mint-token.git
+git clone https://github.com/rustsol/swisstronik-erc20-mint-swatch
 ```
 
 ```
-cd swisstronik-erc20-mint-token
+cd swisstronik-erc20-mint-swatch
 ```
 
 ### 2. Install Dependency
